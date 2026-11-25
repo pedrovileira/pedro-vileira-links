@@ -10,7 +10,7 @@ export const siteConfig = {
   description: 'Todos os caminhos até Pedro Vileira, designer gráfico e diretor de arte: portfólio, Image Lab, WhatsApp e Instagram.', // ✏️ PEDRO: ALTERE A DESCRIÇÃO (SEO)
   location: 'SÃO JOSÉ DOS CAMPOS, BR', // ✏️ PEDRO: ALTERE SUA LOCALIZAÇÃO AQUI
   email: 'contato@pedrovileira.com', // ✏️ PEDRO: ALTERE O E-MAIL AQUI
-  instagram: 'https://instagram.com/pedrovileira.std', // ✏️ PEDRO: ALTERE O LINK DO INSTAGRAM AQUI
+  instagram: 'https://instagram.com/pdrovileira', // ✏️ PEDRO: ALTERE O LINK DO INSTAGRAM AQUI
   linkedin: 'https://www.linkedin.com/in/pedro-vileira-0b10b9441', // ✏️ PEDRO: SEU LINKEDIN (deixe '' se ainda não tiver — some do site sozinho)
   behance: 'https://www.behance.net/pedrovileira', // ✏️ PEDRO: SEU BEHANCE (deixe '' se ainda não tiver — some do site sozinho)
   whatsapp: 'https://wa.me/5512996853826', // ✏️ PEDRO: ALTERE O WHATSAPP AQUI (formato wa.me/55DDDNUMERO)
