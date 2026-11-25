@@ -10,11 +10,7 @@ import { siteConfig } from '@/config/site';
 // Só são usados se a tela for estreita demais (ver `.menu__item` no globals.css); normalmente a palavra aparece inteira.
 const main = siteConfig.mainUrl;
 const links = [
-  { href: `${main}/`, label: 'HOME' },
-  { href: `${main}/work`, label: 'TRABALHOS', mobile: 'TRA\u00ADBA\u00ADLHOS' },
-  { href: `${main}/lab/editor`, label: 'IMAGE LAB' },
-  { href: `${main}/contact`, label: 'CONTACT', mobile: 'CON\u00ADTACT' },
-  { href: `${main}/quote`, label: 'ORÇAMENTO', mobile: 'OR\u00ADÇA\u00ADMEN\u00ADTO' },
+  { href: `${main}/`, label: 'PORTIFÓLIO' },
 ] as { href: string; label: string; mobile?: string }[];
 
 export function Navigation() {
